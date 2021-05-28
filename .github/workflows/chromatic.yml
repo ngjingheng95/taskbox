@@ -1,5 +1,5 @@
 # name of our action
-name: 'Chromatic Deployment'
+name: "Chromatic Deployment"
 # the event that will trigger the action
 on: push
 
@@ -17,5 +17,5 @@ jobs:
         with:
           # our project token, to see how to obtain it
           # refer to https://www.learnstorybook.com/intro-to-storybook/react/en/deploy/
-          projectToken: injbe7ej2u
+          projectToken: 634fd67ba138
           token: ${{ secrets.GITHUB_TOKEN }}
