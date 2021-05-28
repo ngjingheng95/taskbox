@@ -47,7 +47,7 @@ exports[`Storyshots InboxScreen Default 1`] = `
             }
           }
           type="text"
-          value="Task 1"
+          value="Task 11"
         />
       </div>
       <div
@@ -540,7 +540,7 @@ exports[`Storyshots TaskList Default 1`] = `
             }
           }
           type="text"
-          value="Task 1"
+          value="Task 11"
         />
       </div>
       <div
@@ -805,7 +805,7 @@ exports[`Storyshots TaskList Empty 1`] = `
       <div
         className="title-message"
       >
-        You have no tasks
+        You have no tasks!
       </div>
       <div
         className="subtitle-message"
@@ -1071,7 +1071,7 @@ exports[`Storyshots TaskList With Pinned Tasks 1`] = `
             }
           }
           type="text"
-          value="Task 1"
+          value="Task 11"
         />
       </div>
       <div
